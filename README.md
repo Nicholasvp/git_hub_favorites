@@ -1,16 +1,10 @@
-# teste_vaga_dunnas
+# Teste para vaga dev. Flutter na Dunnas
 
-A new Flutter project.
+Este repositório tem como fim testar os candidatos para vaga dev. Flutter na empresa Dunnas.
 
-## Getting Started
+## Desafio
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Carregar os dados de forma dinâmica utilizando a API do GitHub
+2. Carregar os repositórios do usuário inicialmente
+3. Carregar os favoritos do usuário ao acessar a tab Starred
+4. Fazer uma busca ao digitar e fazer o submit com "Enter"
