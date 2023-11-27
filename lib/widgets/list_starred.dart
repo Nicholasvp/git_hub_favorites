@@ -59,7 +59,8 @@ class ListStarred extends StatelessWidget {
                                   title: Text("${repo.forks_count}"),
                                 )),
                               ],
-                            )
+                            ),
+                            const Divider()
                           ],
                         );
                       },
